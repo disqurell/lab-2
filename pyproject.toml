@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "lab-2-sys-modeling"
+version = "0.1.0"
+description = ""
+authors = ["fjsecurity <lisyachenko.daniil@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
